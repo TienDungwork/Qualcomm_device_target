@@ -52,3 +52,6 @@ Chạy script test YOLOv8:
 ```bash
 bash run_yolov8.sh
 ```
+
+## 4. Hàm infer đã viết sẵn
+detect_qnn.py và infer_qnn.py
