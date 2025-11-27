@@ -28,6 +28,7 @@ source <venv_path>/bin/activate
 pip install --upgrade pip setuptools wheel
 pip install pybind11==2.13.6
 apt-get update && apt-get install -y python3.10-dev
+apt install -y cmake build-essential
 ```
 
 ### Cài đặt AI Engine Direct Helper
